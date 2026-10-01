@@ -1,5 +1,7 @@
 # hectorconfig_R
 
+Note from calofost: this package is based on code written pre-AI but the packaging and documentation was done by AI ChatGPT. I have tested what I could, but please use a healthy dose of scepticism and kindly report issues.
+
 This repository contains the installable R package `hectorconfig`, which
 configures the positions and orientations of HECTOR
 hexabundles, standard-star probes, and guide probes after a field has been
